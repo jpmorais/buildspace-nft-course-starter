@@ -5,6 +5,17 @@
   text-align: center;
 }
 
+.text--minted {
+  color: white;
+}
+
+.text--minted a{
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+
 .container {
   height: 100%;
   background-color: #0d1116;
